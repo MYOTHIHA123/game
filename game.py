@@ -41,7 +41,7 @@ bullet_width = bullet_img.get_width()
 bullet_height = bullet_img.get_height()
 bullet_x = 0
 bullet_y = 0
-bullet_dy = -2
+bullet_dy = -7
 bullet_visible = False
 
 def bullet_create():
